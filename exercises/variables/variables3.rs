@@ -5,6 +5,6 @@
 
 
 fn main() {
-    let x: i32 = 10;
+    let mut x: i32 = 10;
     println!("Number {}", x);
 }
