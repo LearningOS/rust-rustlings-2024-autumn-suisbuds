@@ -5,7 +5,7 @@
 
 
 fn main() {
-    let mut x = 10;
+    let x = 10;
     if x == 10 {
         println!("x is ten!");
     } else {
